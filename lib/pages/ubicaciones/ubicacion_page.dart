@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//video minuto 8
+//https://www.youtube.com/watch?v=BvEDQnhS6MU&list=PL0fAXHRKLHdcETg_k3tnEUCze9Nql0cvU&index=3
 class UbicacionPage extends StatefulWidget {
   static String id = 'ubicacion_page';
 
